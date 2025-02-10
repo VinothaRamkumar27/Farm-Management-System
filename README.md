@@ -1,1 +1,7 @@
-# Farm-Managemrnt-System
+# The Farm Management System is a web-based application designed to support farmers by providing essential agricultural information, facilitating the online sale of farm products, and enabling the purchase of agricultural supplies. This system enhances the agricultural sector by digitizing transactions, improving accessibility to critical resources, and fostering direct interactions between farmers and buyers.
+
+The application is built using Flask as the backend framework, managing business logic and database interactions. The frontend is developed using HTML, CSS, and JavaScript, ensuring a user-friendly interface for seamless navigation. The database is handled using MySQL, which efficiently stores user data, product listings, and transaction details. The system includes user authentication, allowing farmers to create accounts, manage their inventory, and track sales. Buyers can browse available products, make purchases, and receive updates on their orders.
+
+To deploy and run the application, the necessary dependencies must be installed, and a MySQL database must be configured to store application data. The system follows a structured MVC architecture, making it scalable and maintainable. Future improvements may include AI-driven recommendations, weather-based insights, and enhanced security measures.
+
+This project aims to bridge the gap between farmers and consumers, creating a robust and accessible digital marketplace for agricultural trade.

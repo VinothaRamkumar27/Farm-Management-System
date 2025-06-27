@@ -59,16 +59,16 @@ The main objective of the Farm Management System is to:
    ```
 ## 📷 UI Screens
 1. Home Page
-![Alt Text](relative/path/to/image.png)
+![Alt Text](relative/path/to/image.png](https://github.com/VinothaRamkumar27/Farm-Management-System/blob/9e934e92e7005e77d8c129145a5e786841bc126c/Farm-management-sysem/Outputs/Home%20page.jpg)
 
 2. Sign Up
-![Alt Text](relative/path/to/image.png)
+![Alt Text](relative/path/to/image.png](https://github.com/VinothaRamkumar27/Farm-Management-System/blob/9e934e92e7005e77d8c129145a5e786841bc126c/Farm-management-sysem/Outputs/Sign%20up.jpg)
 
 3. Registration Page
-![Alt Text](relative/path/to/image.png)
+![Alt Text](relative/path/to/image.png](https://github.com/VinothaRamkumar27/Farm-Management-System/blob/9e934e92e7005e77d8c129145a5e786841bc126c/Farm-management-sysem/Outputs/Register%20Page.jpg)
 
 4. Agro Products Page
-![Alt Text](relative/path/to/image.png)
+![Alt Text](relative/path/to/image.png](https://github.com/VinothaRamkumar27/Farm-Management-System/blob/9e934e92e7005e77d8c129145a5e786841bc126c/Farm-management-sysem/Outputs/Agro%20Products.jpg)
 
 ## ✅ Conclusion
 This project offers a practical demonstration of how farm operations can be digitized for better coordination, transparency, and profitability. It provides the groundwork for more scalable agri-business solutions.

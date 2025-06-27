@@ -64,28 +64,22 @@ The main objective of the Farm Management System is to:
 2. Sign Up
 ![Alt Text](https://github.com/VinothaRamkumar27/Farm-Management-System/blob/9e934e92e7005e77d8c129145a5e786841bc126c/Farm-management-sysem/Outputs/Sign%20up.jpg)
 
-3. Registration Page
-![Alt Text](https://github.com/VinothaRamkumar27/Farm-Management-System/blob/9e934e92e7005e77d8c129145a5e786841bc126c/Farm-management-sysem/Outputs/Register%20Page.jpg)
-
-4. Register Farmer Details:
+3. Register Farmer Details:
 ![Alt Text](https://github.com/VinothaRamkumar27/Farm-Management-System/blob/898af81c05653c6683d10b429c92393ac9196d9e/Farm-management-sysem/Outputs/Register%20Farmer%20Details.jpg)
 
-5. View Farmer Details:
+4. View Farmer Details:
 ![Alt Text](https://github.com/VinothaRamkumar27/Farm-Management-System/blob/898af81c05653c6683d10b429c92393ac9196d9e/Farm-management-sysem/Outputs/View%20Farmer%20Details.jpg)
 
-6. Add Farming:
-![Alt Text](https://github.com/VinothaRamkumar27/Farm-Management-System/blob/898af81c05653c6683d10b429c92393ac9196d9e/Farm-management-sysem/Outputs/Add%20Farming.jpg)
-
-7. Add Products:
+5. Add Products:
 ![Alt Text](https://github.com/VinothaRamkumar27/Farm-Management-System/blob/898af81c05653c6683d10b429c92393ac9196d9e/Farm-management-sysem/Outputs/Add%20products.jpg)
 
-8. Agro Products Page
+6. Agro Products Page
 ![Alt Text](https://github.com/VinothaRamkumar27/Farm-Management-System/blob/9e934e92e7005e77d8c129145a5e786841bc126c/Farm-management-sysem/Outputs/Agro%20Products.jpg)
 
-9. View Agro Products:
+7. View Agro Products:
 ![Alt Text](https://github.com/VinothaRamkumar27/Farm-Management-System/blob/898af81c05653c6683d10b429c92393ac9196d9e/Farm-management-sysem/Outputs/View%20Agro%20Products.jpg)
 
-10. Triggers:
+8. Triggers:
 ![Alt Text](https://github.com/VinothaRamkumar27/Farm-Management-System/blob/898af81c05653c6683d10b429c92393ac9196d9e/Farm-management-sysem/Outputs/Triggers.jpg)
 
 ## ✅ Conclusion

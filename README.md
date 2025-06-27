@@ -57,6 +57,19 @@ The main objective of the Farm Management System is to:
    ```bash
    python app.py
    ```
+## 📷 UI Screens
+1. Home Page
+![Alt Text](relative/path/to/image.png)
+
+2. Sign Up
+![Alt Text](relative/path/to/image.png)
+
+3. Registration Page
+![Alt Text](relative/path/to/image.png)
+
+4. Agro Products Page
+![Alt Text](relative/path/to/image.png)
+
 ## ✅ Conclusion
 This project offers a practical demonstration of how farm operations can be digitized for better coordination, transparency, and profitability. It provides the groundwork for more scalable agri-business solutions.
 

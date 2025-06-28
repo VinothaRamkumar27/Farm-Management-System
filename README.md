@@ -73,13 +73,10 @@ The main objective of the Farm Management System is to:
 5. Add Products:
 ![Alt Text](https://github.com/VinothaRamkumar27/Farm-Management-System/blob/898af81c05653c6683d10b429c92393ac9196d9e/Farm-management-sysem/Outputs/Add%20products.jpg)
 
-6. Agro Products Page
-![Alt Text](https://github.com/VinothaRamkumar27/Farm-Management-System/blob/9e934e92e7005e77d8c129145a5e786841bc126c/Farm-management-sysem/Outputs/Agro%20Products.jpg)
-
-7. View Agro Products:
+6. View Agro Products:
 ![Alt Text](https://github.com/VinothaRamkumar27/Farm-Management-System/blob/898af81c05653c6683d10b429c92393ac9196d9e/Farm-management-sysem/Outputs/View%20Agro%20Products.jpg)
 
-8. Triggers:
+7. Triggers:
 ![Alt Text](https://github.com/VinothaRamkumar27/Farm-Management-System/blob/898af81c05653c6683d10b429c92393ac9196d9e/Farm-management-sysem/Outputs/Triggers.jpg)
 
 ## ✅ Conclusion
